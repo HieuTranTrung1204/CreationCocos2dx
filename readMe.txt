@@ -9,4 +9,5 @@
 (7) Tạo branch để code game mini
 
  Template source game creation Game Mini 
- - cấu trúc: ...
+ - cấu trúc:
+ Design Screen size: iphone 5s (640x1136)
