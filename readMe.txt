@@ -10,3 +10,4 @@
 
  Template source game creation Game Mini 
  - cấu trúc: ...
+	- Test
